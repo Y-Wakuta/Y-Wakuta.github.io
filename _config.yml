@@ -1,23 +1,18 @@
-name:               "Ink"
-description:        "A minimalistic jekyll theme for humans"
+name:               "yusuke wakuta"
+description:        "portfolio of yusuke wakuta"
 
 url:                ""
-author:             "thinker3197"
-email:              "jhondoe@abc.com"
+author:             "yusuke wakuta"
+email:              "wakuta.yusuke@ist.osaka-u.ac.jp"
 gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
-twitter:            "jhondoe"
-email:              "jhondoe@abc.com"
-github:             "jhondoe"
-pinterest:          "jhondoe"
-linkedin:           "jhondoe"
-facebook:           "jhondoe"
+twitter:            "@yusuke_wk"
+email:              "wakuta.yusuke@ist.osaka-u.ac.jp"
+github:             "Y-Wakuta"
+linkedin:           "涌田 悠佑"
 
 disqus_shortname:   "thinker3197"
 
 background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
-
-paginate:           5
-paginate_path:      "/page:num/"
 
 baseurl:            ""
 permalink:          /:year/:month/:day/:title/
@@ -29,6 +24,8 @@ nav:
     href:           "/about"
   - name:           "Download"
     href:           "/releases"
+  - name:           "pages"
+    href:           "/pages"
 
 sass:
   style:            :compressed
