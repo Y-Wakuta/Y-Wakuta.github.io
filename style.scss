@@ -20,6 +20,7 @@ $source-sans: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 html,
 body {
+    // height: 100%;
     margin: 0;
     padding: 0;
     @media (min-width: 38em) {
@@ -29,11 +30,12 @@ body {
 
 html {
     font-family: $source-sans;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 300;
     line-height: 1.6;
+    height: 100%;
     @media (min-width: 38em) {
-        font-size: 15px;
+        font-size: 18px;
     }
 }
 
@@ -62,18 +64,27 @@ a {
     a:active { color: #ff8000; }
 }
 
+.head-link{
+    color: #ff7f50;
+    a:visited { color: #000080; }
+    a:hover { color: #ff0000; }
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
 h1 {
     font-size: 2.5rem;
 }
 
 h2 {
     margin: 0;
-    padding: 0;
+    padding: 0.3em 0 .25em .75em;
     border: 0;
     font: 2.0rem;
     vertical-align: baseline;
     font-weight: 800;
-    font-size: 1.6rem;
+    font-size: 1.7rem;
+    border-left: 6px solid #ff8000;
 }
 
 h3 {
@@ -105,7 +116,7 @@ dd {
 }
 
 ul {
-    display: inline;
+    display: block;
     list-style: inside circle;
     padding-left: 0;
     li {
@@ -282,8 +293,8 @@ tbody tr:nth-child(odd) th {
 
 .top {
     position: fixed;
-    background: #EC407A;
-    height: 3px;
+    background: #ff8000;
+    height: 8px;
     width: 100%;
     top: 0;
     z-index: 100;
@@ -316,14 +327,13 @@ tbody tr:nth-child(odd) th {
     background-repeat:no-repeat;
     background-size: cover; 
     background-position:center;
-    background-color:#ff7f50;
+    background-color:#262673;
     .img-circle {
         height: auto;
         width: 90%;
         border-radius: 30%;
         display: block;
         margin: 1rem 1rem 1rem;
-        display: inline; 
     }
     h3 {
         height: auto;
@@ -361,15 +371,17 @@ tbody tr:nth-child(odd) th {
         }
         p {
             margin-top: -1.3em;
-            font-size: 16px;
+            font-size: 18px;
             text-align: center;
             letter-spacing: 2px;
         }
         .img-circle {
             height: auto;
-            width: 55%;
+            width: 90%;
             margin-top: 25%;
-            margin-left: 24%;
+            margin-left: 5%;
+            margin-right: 5%;
+            margin-bottom: 10%;
         }
         .social {
             position: absolute;
@@ -378,23 +390,24 @@ tbody tr:nth-child(odd) th {
             a {
                 padding: 0;
                 margin-left: 0;
+                color: #FFFFFF
             }
         }
     }
 }
 
-.posts {
+.overview {
     max-width: 38rem;
     padding: 1.4rem 0.8rem;
     margin-left: auto;
     margin-right: auto;
-    overflow: auto;
+    overflow: scroll;
     @media (min-width: 38rem) {
         margin-top: 0;
         margin-left: 20%;
         padding: 3%;
         min-width: 80%;
-        height: 800px;
+        height: 100vh;//100%では効かない
     }
 }
 

@@ -9,6 +9,7 @@ twitter:            "@yusuke_wk"
 email:              "wakuta.yusuke@ist.osaka-u.ac.jp"
 github:             "Y-Wakuta"
 linkedin:           "涌田 悠佑"
+hatena:             "https://yusuke-haimenhikou.hatenablog.com"
 
 disqus_shortname:   "thinker3197"
 
@@ -22,23 +23,20 @@ markdown:           kramdown
 nav:
   - name:           "GitHub"
     href:           "https://github.com/Y-Wakuta"
+  - name:           "About Me"
+    href:           "#aboutme"
+  - name:           "Research Interest"
+    href:           "#research"
+  - name:           "Personal Interest"
+    href:           "#personal"
+  - name:           "Career"
+    href:           "#career"
+  - name:           "History"
+    href:           "#history"
+  - name:           "Club Activity"
+    href:           "#club"
+  - name:           "Hobby"
+    href:           "#hobby"
 
 sass:
   style:            :compressed
-
-defaults:
-  -
-    scope:
-      path:         ""
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      path:         ""
-      type:         "posts"
-    values:
-      layout:       "post"
-
-gems:
-  - jekyll-paginate
