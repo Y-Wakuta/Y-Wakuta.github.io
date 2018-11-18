@@ -22,6 +22,20 @@ markdown:           kramdown
 nav:
   - name:           "GitHub"
     href:           "https://github.com/Y-Wakuta"
+  - name:           "AboutMe"
+    href:           "#aboutme"
+  - name:           "ResearchInterest"
+    href:           "#research"
+  - name:           "PersonalInterest"
+    href:           "#personal"
+  - name:           "Career"
+    href:           "#career"
+  - name:           "History"
+    href:           "#history"
+  - name:           "ClubActivity"
+    href:           "#club"
+  - name:           "Hobby"
+    href:           "#hobby"
 
 sass:
   style:            :compressed
