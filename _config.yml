@@ -21,8 +21,6 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
-  - name:           "GitHub"
-    href:           "https://github.com/Y-Wakuta"
   - name:           "About Me"
     href:           "#aboutme"
   - name:           "Research Interest"
