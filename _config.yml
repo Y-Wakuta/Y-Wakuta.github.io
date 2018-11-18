@@ -14,9 +14,6 @@ disqus_shortname:   "thinker3197"
 
 background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
 
-paginate:           5
-paginate_path:      "/page:num/"
-
 baseurl:            ""
 permalink:          /:year/:month/:day/:title/
 
@@ -27,6 +24,8 @@ nav:
     href:           "/about"
   - name:           "Download"
     href:           "/releases"
+  - name:           "pages"
+    href:           "/pages"
 
 sass:
   style:            :compressed
