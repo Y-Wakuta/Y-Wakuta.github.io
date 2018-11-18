@@ -334,7 +334,6 @@ tbody tr:nth-child(odd) th {
         border-radius: 30%;
         display: block;
         margin: 1rem 1rem 1rem;
-        display: inline; 
     }
     h3 {
         height: auto;
@@ -378,9 +377,11 @@ tbody tr:nth-child(odd) th {
         }
         .img-circle {
             height: auto;
-            width: 55%;
+            width: 90%;
             margin-top: 25%;
-            margin-left: 24%;
+            margin-left: 5%;
+            margin-right: 5%;
+            margin-bottom: 10%;
         }
         .social {
             position: absolute;

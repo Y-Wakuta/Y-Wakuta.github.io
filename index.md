@@ -14,6 +14,7 @@ layout: default
 大阪大学工学部電子情報工学科情報通信工学科目  
 <a class="text-link" href="http://www-bigdata.ist.osaka-u.ac.jp/ja/home/">鬼塚研究室</a>  
 涌田 悠佑 (yusuke wakuta)  
+email:  wakuta.yusuke [at] ist.osaka-u.ac.jp
 
 <ul class="social">
             {% if site.github %}
@@ -28,13 +29,9 @@ layout: default
             <a type="button" href="http://linkedin.com/in/{{ site.linkedin }}">
                 <i class="fa fa-linkedin"></i>
             </a>
-            {% endif %} {% if site.pinterest %}
-            <a type="button" href="http://pinterest.com/{{ site.pinterest }}">
-                <i class="fa fa-pinterest"></i>
-            </a>
-            {% endif %} {% if site.facebook %}
-            <a type="button" href="http://facebook.com/{{ site.facebook }}">
-                <i class="fa fa-facebook"></i>
+            {% endif %} {% if site.hatena %}
+            <a type="button" href="https://yusuke-haimenhikou.hatenablog.com">
+                <img src="hatenablog-logo.jpg" width="23"  height="23">
             </a>
             {% endif %}
         </ul>
@@ -50,7 +47,7 @@ layout: default
 
 ## Personal Interest {#personal}
 
-NoSQLやRDBMSにおけるスキーマ・トランザクション・分散処理にkannsuがあります。
+NoSQLやRDBMSにおけるスキーマ・トランザクション・分散処理に関心があります。
 
 ## Career {#career}
 
