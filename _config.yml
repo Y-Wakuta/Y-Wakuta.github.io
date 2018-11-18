@@ -12,7 +12,7 @@ linkedin:           "涌田 悠佑"
 
 disqus_shortname:   "thinker3197"
 
-background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+#background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
 
 baseurl:            ""
 permalink:          /:year/:month/:day/:title/
@@ -20,12 +20,8 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
-  - name:           "About"
-    href:           "/about"
-  - name:           "Download"
-    href:           "/releases"
-  - name:           "pages"
-    href:           "/pages"
+  - name:           "GitHub"
+    href:           "https://github.com/Y-Wakuta"
 
 sass:
   style:            :compressed

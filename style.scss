@@ -29,11 +29,11 @@ body {
 
 html {
     font-family: $source-sans;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 300;
     line-height: 1.6;
     @media (min-width: 38em) {
-        font-size: 20px;
+        font-size: 15px;
     }
 }
 
@@ -55,22 +55,29 @@ a {
     }
 }
 
+.text-link{
+    color: #ff7f50;
+    a:visited { color: #000080; }
+    a:hover { color: #ff0000; }
+    a:active { color: #ff8000; }
+}
+
 h1 {
-    font-size: 2rem;
+    font-size: 2.5rem;
 }
 
 h2 {
     margin: 0;
     padding: 0;
     border: 0;
-    font: inherit;
+    font: 2.0rem;
     vertical-align: baseline;
     font-weight: 800;
     font-size: 1.6rem;
 }
 
 h3 {
-    font-size: 1.3rem;
+    font-size: 1.7rem;
 }
 
 h4,
@@ -305,17 +312,18 @@ tbody tr:nth-child(odd) th {
 }
 
 .profile {
-    padding: 2%;
+    padding: 1%;
     background-repeat:no-repeat;
     background-size: cover; 
     background-position:center;
+    background-color:#ff7f50;
     .img-circle {
         height: auto;
-        width: 20%;
-        border-radius: 50%;
+        width: 90%;
+        border-radius: 30%;
         display: block;
         margin: 1rem 1rem 1rem;
-        display: inline;
+        display: inline; 
     }
     h3 {
         height: auto;
@@ -329,7 +337,7 @@ tbody tr:nth-child(odd) th {
         height: auto;
         width: 100%;
         text-align: center;
-        color: #BDBDBD;
+        color: #FFFFFF;
     }
     .social {
         margin-left: 25vw;
