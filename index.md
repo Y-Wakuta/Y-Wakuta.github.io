@@ -14,8 +14,8 @@ layout: default
 大阪大学工学部電子情報工学科情報通信工学科目  
 <a class="text-link" href="http://www-bigdata.ist.osaka-u.ac.jp/ja/home/">鬼塚研究室</a>  
 涌田 悠佑 (yusuke wakuta)  
-email:  wakuta.yusuke [at] ist.osaka-u.ac.jp
-
+<a class="text-link" href="https://yusuke-haimenhikou.hatenablog.com">はてな</a>  
+Email:  wakuta.yusuke [at] ist.osaka-u.ac.jp  
 <ul class="social">
             {% if site.github %}
             <a type="button" href="http://github.com/{{ site.github }}">
@@ -29,10 +29,6 @@ email:  wakuta.yusuke [at] ist.osaka-u.ac.jp
             <a type="button" href="http://linkedin.com/in/{{ site.linkedin }}">
                 <i class="fa fa-linkedin"></i>
             </a>
-            {% endif %} {% if site.hatena %}
-            <a type="button" href="https://yusuke-haimenhikou.hatenablog.com">
-                <img src="hatenablog-logo.jpg" width="23"  height="23">
-            </a>
             {% endif %}
         </ul>
 
@@ -43,7 +39,7 @@ email:  wakuta.yusuke [at] ist.osaka-u.ac.jp
 * keywords
     * Cassandra
     * HBase
-    * [NoSE](https://github.com/michaelmior/NoSE)
+    * <a class="text-link" href="https://github.com/michaelmior/NoSE">NoSE</a>
 
 ## Personal Interest {#personal}
 
@@ -57,7 +53,7 @@ NoSQLやRDBMSにおけるスキーマ・トランザクション・分散処理�
         * PostgreSQL
         * docker
         * docker-compose
-* 2018年8/13-9/7にNTTの武蔵野研究所においてインターンに参加しました。
+* 2018年8/13-9/7の期間にNTTの武蔵野研究所においてインターンに参加しました。
    * 関連技術
         * c++
         * Ruby
