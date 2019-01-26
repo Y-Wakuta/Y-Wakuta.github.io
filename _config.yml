@@ -29,6 +29,8 @@ nav:
     href:           "#personal"
   - name:           "Career"
     href:           "#career"
+  - name:           "License"
+    href:           "#licenses"
   - name:           "History"
     href:           "#history"
   - name:           "Club Activity"

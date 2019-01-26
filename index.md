@@ -60,6 +60,12 @@ NoSQLやRDBMSにおけるスキーマ・トランザクション・分散処理�
         * PostgreSQL
         * Ruby on Rails
 
+## Licenses and Certifications {#licenses}
+
+* 応用情報技術者
+* TOEIC 845点
+* 準中型免許(限定無し)
+
 ## History {#history}
 
 * 2018-04 ビックデータ工学講座 (鬼塚研) 正規配属
