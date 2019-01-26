@@ -1,8 +1,4 @@
-# Ink
-
-Ink is a minmal two-column theme for [Jekyll](http://jekyllrb.com) 
-
-![Screenshot](https://s32.postimg.org/gdtp6pw1x/ink.png)
+# Y-Wakuta Portfolio
 
 # Installation 
 
@@ -12,11 +8,6 @@ Ink is a minmal two-column theme for [Jekyll](http://jekyllrb.com)
  * Install bundler which helps in specifying and installing dependencies of any Ruby project ```gem install bundler```
  * Go to the root of the repo and run this - ```bundle install```
  * Then - ```bundle exec jekyll serve```
-
-##### Make it your own
- * Fork the repository
- * Follow the configuration step
- * Host your site/blog with **Ink**
 
 # Configuration 
  * Change the following in ```_config.yml```
@@ -43,8 +34,3 @@ Ink is a minmal two-column theme for [Jekyll](http://jekyllrb.com)
 # Licensce
 
 Open sourced under [MIT LICENSE](https://github.com/thinker3197/ink/blob/master/LICENSE) 
-
-
-
-
-

@@ -60,17 +60,23 @@ NoSQLやRDBMSにおけるスキーマ・トランザクション・分散処理�
         * PostgreSQL
         * Ruby on Rails
 
+## Licenses and Certifications {#licenses}
+
+* 応用情報技術者
+* TOEIC 845点
+* 準中型免許(限定無し)
+
+## Club Activity {#club}
+
+* 人力飛行機制作研究会Albatross
+    * 2017年度パイロット・プロジェクトリーダ・電装班長
+
 ## History {#history}
 
 * 2018-04 ビックデータ工学講座 (鬼塚研) 正規配属
 * 2017-04 ビックデータ工学講座 (鬼塚研) 配属
 * 2015-04 大阪大学工学部電子情報工学科 入学
 * 2015-03 清教学園高等学校 卒業
-
-## Club Activity {#club}
-
-* 人力飛行機制作研究会Albatross
-    * 2017年度パイロット・プロジェクトリーダ・電装班長
 
 ## Hobby {#hobby}
 
