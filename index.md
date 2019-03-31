@@ -41,6 +41,26 @@ Email:  wakuta.yusuke [at] ist.osaka-u.ac.jp
     * HBase
     * <a class="text-link" href="https://github.com/michaelmior/NoSE">NoSE</a>
 
+## Publications {#publications}
+
+* Secondary index を活用する NoSQL スキーマ推薦によるクエリ処理高速化
+  <ol>
+     <li><span style="color: #808080; background-color: transparent">涌田 悠佑, 善明 晃由, 松本 拓海, 佐々木 勇和, 鬼塚 真</span></li> 
+     <li><span style="color: #808080; background-color: transparent">The 3rd cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming (xSIG2019) (2019.05)</span></li> 
+  </ol>
+* Secondary index を活用する NoSQL スキーマ推薦による Query 処理高速化
+  <ol>
+     <li><span style="color: #808080; background-color: transparent">涌田 悠佑, 善明 晃由, 松本 拓海, 佐々木 勇和, 鬼塚 真</span></li> 
+     <li><span style="color: #808080; background-color: transparent">データ工学と情報マネジメントに関するフォーラム (DEIM2019) (2019.03)   </span></li> 
+  </ol>
+
+## Awards {#awards}
+
+* Outstanding Significance Award (xSIG2019)
+* 優秀インタラクティブ賞 (DEIM2019)
+* 学生プレゼンテーション賞 (DEIM2019)
+* 阪大情報科学研究科院試は専攻内首席でした。(ここ以外書く機会も無いので記載)
+
 ## Personal Interest {#personal}
 
 NoSQLやRDBMSにおけるスキーマ・トランザクション・分散処理に関心があります。
@@ -73,8 +93,9 @@ NoSQLやRDBMSにおけるスキーマ・トランザクション・分散処理�
 
 ## History {#history}
 
+* 2019-04 大阪大学情報科学研究科マルチメディア専攻ビッグデータ工学講座 (鬼塚研) 配属 
 * 2018-04 ビックデータ工学講座 (鬼塚研) 正規配属
-* 2017-04 ビックデータ工学講座 (鬼塚研) 配属
+* 2017-04 ビックデータ工学講座 (鬼塚研) 早期配属
 * 2015-04 大阪大学工学部電子情報工学科 入学
 * 2015-03 清教学園高等学校 卒業
 
