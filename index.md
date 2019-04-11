@@ -11,7 +11,7 @@ layout: default
 
 ## About Me {#aboutme}
 
-大阪大学工学部電子情報工学科情報通信工学科目  
+情報科学研究科博士前期課程マルチメディア工学専攻
 <a class="text-link" href="http://www-bigdata.ist.osaka-u.ac.jp/ja/home/">鬼塚研究室</a>  
 涌田 悠佑 (yusuke wakuta)  
 <a class="text-link" href="https://yusuke-haimenhikou.hatenablog.com">はてな</a>  
@@ -47,10 +47,12 @@ NoSQLやRDBMSにおけるスキーマ・トランザクション・分散処理�
 
 ## Career {#career}
 
-* 2016年3月より、大学で使用する公費システム開発に携わっています。
-    * 関連技術
-        * C#
-        * PostgreSQL
+* 2019年3/7-4/5の期間にサイバーエージェント秋葉原ラボにおいてインターンに参加しました。
+   * 関連技術
+        * Ruby
+        * Java
+        * HBase
+        * openTSDB
         * docker
         * docker-compose
 * 2018年8/13-9/7の期間にNTTの武蔵野研究所においてインターンに参加しました。
@@ -59,6 +61,12 @@ NoSQLやRDBMSにおけるスキーマ・トランザクション・分散処理�
         * Ruby
         * PostgreSQL
         * Ruby on Rails
+* 2016年3月より、大学で使用する公費システム開発に携わっています。
+    * 関連技術
+        * C#
+        * PostgreSQL
+        * docker
+        * docker-compose
 
 ## Licenses and Certifications {#licenses}
 
