@@ -34,12 +34,10 @@ Email:  wakuta.yusuke [at] ist.osaka-u.ac.jp
 
 ## Research Interest {#research}
 
-卒業研究としてNoSQLデータベースに置けるスキーマ推薦を行っています。データベースにおけるスキーマはクエリやupdateの速度に直結するため、性能を追い求める際には非常に重要な項目となります。  
+NoSQL データベースに置けるスキーマ推薦技術に関する研究を行っています。データベースにおけるスキーマはクエリ・更新処理の速度に直結するため、性能を追い求める際には非常に重要な項目となります。
 
 * keywords
-    * Cassandra
-    * HBase
-    * <a class="text-link" href="https://github.com/michaelmior/NoSE">NoSE</a>
+    * Cassandra * HBase * <a class="text-link" href="https://github.com/michaelmior/NoSE">NoSE</a>
 
 ## Publications {#publications}
 
@@ -63,16 +61,14 @@ Email:  wakuta.yusuke [at] ist.osaka-u.ac.jp
 
 ## Personal Interest {#personal}
 
-NoSQLやRDBMSにおけるスキーマ・トランザクション・分散処理に関心があります。
+NoSQL や RDBMS におけるスキーマ・トランザクション・分散処理に関心があります。
 
-## Career {#career}
+## Experience {#experience}
 
-* 2019年3/7-4/5の期間にサイバーエージェント秋葉原ラボにおいてインターンに参加しました。
-   * 関連技術
-        * Ruby
-        * Java
-        * HBase
-        * openTSDB
+* 2016年3月より、大学で使用する公費システム開発に携わっています。
+    * 関連技術
+        * C#
+        * PostgreSQL
         * docker
         * docker-compose
 * 2018年8/13-9/7の期間にNTTの武蔵野研究所においてインターンに参加しました。
@@ -81,12 +77,25 @@ NoSQLやRDBMSにおけるスキーマ・トランザクション・分散処理�
         * Ruby
         * PostgreSQL
         * Ruby on Rails
-* 2016年3月より、大学で使用する公費システム開発に携わっています。
-    * 関連技術
-        * C#
-        * PostgreSQL
+* 2019年3/7-4/5の期間にサイバーエージェント秋葉原ラボにおいてインターンに参加しました。
+   * 関連技術
+        * Ruby
+        * Java
+        * HBase
+        * openTSDB
         * docker
         * docker-compose
+* 2019年5/16 よりサイバーエージェントで長期インターンとして再度雇用頂き、大阪オフィスより秋葉原ラボの業務に携わらせて頂いています。
+* (in comming) 2019年9月上旬から2ヶ月間、アメリカのロチェスター工科大学にてインターンに参加します。
+* (in comming) M3 において11月ごろに数週間のインターンに参加させて頂きます。
+
+## Education {#education}
+
+* 2015-03 清教学園高等学校 卒業
+* 2015-04 大阪大学工学部電子情報工学科 入学
+* 2017-04 ビックデータ工学講座 (鬼塚研) 早期配属
+* 2018-04 ビックデータ工学講座 (鬼塚研) 正規配属
+* 2019-04 大阪大学情報科学研究科マルチメディア専攻ビッグデータ工学講座 (鬼塚研) 配属 
 
 ## Licenses and Certifications {#licenses}
 
@@ -96,18 +105,10 @@ NoSQLやRDBMSにおけるスキーマ・トランザクション・分散処理�
 
 ## Club Activity {#club}
 
-* 人力飛行機制作研究会Albatross
+* <a class="text-link" href="http://albatross-osaka.net/">大阪大学飛行機制作研究会albatross</a>  
     * 2017年度パイロット・プロジェクトリーダ・電装班長
-
-## History {#history}
-
-* 2019-04 大阪大学情報科学研究科マルチメディア専攻ビッグデータ工学講座 (鬼塚研) 配属 
-* 2018-04 ビックデータ工学講座 (鬼塚研) 正規配属
-* 2017-04 ビックデータ工学講座 (鬼塚研) 早期配属
-* 2015-04 大阪大学工学部電子情報工学科 入学
-* 2015-03 清教学園高等学校 卒業
 
 ## Hobby {#hobby}
 
 * サイクリング
-* ギター(少々)
+* トラック運転
