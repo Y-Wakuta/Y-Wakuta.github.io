@@ -37,7 +37,9 @@ Email:  wakuta.yusuke [at] ist.osaka-u.ac.jp
 NoSQL データベースに置けるスキーマ推薦技術に関する研究を行っています。データベースにおけるスキーマはクエリ・更新処理の速度に直結するため、性能を追い求める際には非常に重要な項目となります。
 
 * keywords
-    * Cassandra * HBase * <a class="text-link" href="https://github.com/michaelmior/NoSE">NoSE</a>
+    * Cassandra 
+    * HBase 
+    * <a class="text-link" href="https://github.com/michaelmior/NoSE">NoSE</a>
 
 ## Publications {#publications}
 
