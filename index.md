@@ -103,7 +103,7 @@ NoSQL や RDBMS におけるスキーマ・トランザクション・分散処�
 
 ## Club Activity {#club}
 
-* <a class="text-link" href="http://albatross-osaka.net/">大阪大学飛行機制作研究会albatross</a>  
+* <a class="text-link" href="http://albatross.mystrikingly.com/">大阪大学飛行機制作研究会albatross</a>  
     * 2017年度パイロット・プロジェクトリーダ・電装班長
 
 ## Hobby {#hobby}
