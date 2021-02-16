@@ -43,6 +43,13 @@ NoSQL データベースに置けるスキーマ推薦技術に関する研究�
 
 ## Publications {#publications}
 
+### 主著
+
+* Secondary Indexを活用するNoSQLスキーマ推薦によるクエリ処理高速化
+  <ol>
+     <li><span style="color: #808080; background-color: transparent">涌田 悠佑, 善明 晃由, 松本 拓海, 佐々木 勇和, 鬼塚 真</span></li> 
+     <li><span style="color: #808080; background-color: transparent">情報処理学会論文誌データベース（TOD）,13(1),20-32 (2020-01-27) , 1882-7799</span></li> 
+  </ol>
 * Secondary index を活用する NoSQL スキーマ推薦によるクエリ処理高速化
   <ol>
      <li><span style="color: #808080; background-color: transparent">涌田 悠佑, 善明 晃由, 松本 拓海, 佐々木 勇和, 鬼塚 真</span></li> 
@@ -51,7 +58,25 @@ NoSQL データベースに置けるスキーマ推薦技術に関する研究�
 * Secondary index を活用する NoSQL スキーマ推薦による Query 処理高速化
   <ol>
      <li><span style="color: #808080; background-color: transparent">涌田 悠佑, 善明 晃由, 松本 拓海, 佐々木 勇和, 鬼塚 真</span></li> 
-     <li><span style="color: #808080; background-color: transparent">データ工学と情報マネジメントに関するフォーラム (DEIM2019) (2019.03)   </span></li> 
+     <li><span style="color: #808080; background-color: transparent">データ工学と情報マネジメントに関するフォーラム (DEIM2019) (2019.03)</span></li> 
+  </ol>
+
+### 共著
+
+* Schema Mapping between Logical and Internal Layers for NoSQL Applications 
+  <ol>
+     <li><span style="color: #808080; background-color: transparent">Teruyoshi Zenmyo, Noriyuki Watanabe, Yusuke Wakuta, Makoto Onizuka</span></li> 
+     <li><span style="color: #808080; background-color: transparent">The 1st Workshop on Distributed Infrastructure, Systems, Programming and AI (DISPA), 2020. </span></li> 
+  </ol>
+* Towards Guaranteeing Global Consistency for Peer-based Data Integration Architecture
+  <ol>
+     <li><span style="color: #808080; background-color: transparent"></span>Kota Miyake, Yusuke Wakuta, Yuya Sasaki and Makoto Onizuka</li> 
+     <li><span style="color: #808080; background-color: transparent"></span>Fourth Workshop on Software Foundations for Data Interoperability (SFDI2020) ,2020</li> 
+  </ol>
+* P2P 型データ統合アーキテクチャにおけるチケットベース手法を用いた分散トランザクション制御
+  <ol>
+     <li><span style="color: #808080; background-color: transparent">三宅康太, 涌田悠佑, 佐々木勇和, 肖川, 鬼塚真</span></li> 
+     <li><span style="color: #808080; background-color: transparent"></span>データ工学と情報マネジメントに関するフォーラム (DEIM2020), 2020.</li> 
   </ol>
 
 ## Awards {#awards}
@@ -62,39 +87,31 @@ NoSQL データベースに置けるスキーマ推薦技術に関する研究�
 
 ## Personal Interest {#personal}
 
-NoSQL や RDBMS におけるスキーマ・トランザクション・分散処理に関心があります。
+NoSQL や RDBMS におけるデータ構造・スキーマ設計・トランザクション・分散処理に関心があります。
 
 ## Experience {#experience}
 
 * 2016年3月-2019年8月 長期インターンシップとして公費システムの開発に参加していました。
-    * 関連技術
-        * C#
-        * PostgreSQL
-        * docker
-        * docker-compose
+    * 関連技術: C#, PostgreSQL, Docker, docker-compose
 * 2018年8/13-9/7の期間にNTTの武蔵野研究所においてインターンに参加しました。
-   * 関連技術
-        * c++
-        * Ruby
-        * PostgreSQL
-        * Ruby on Rails
+   * 関連技術: C++, Ruby, PostgreSQL, Ruby on Rails
 * 2019年3/7-4/5の期間にサイバーエージェント秋葉原ラボにおいてインターンに参加しました。
-   * 関連技術
-        * Ruby
-        * Java
-        * HBase
-        * openTSDB
-        * docker
-        * docker-compose
+   * 関連技術: Ruby, Java, HBase, openTSDB, Docker, docker-compose
 * 2019年5/16-8/31 の期間にサイバーエージェントで再度インターンに参加しました。
-* 2019年9/16-11/15の期間にアメリカのロチェスター工科大学においてインターンに参加しました。
+* 2019年9/16-11/15の期間にアメリカのロチェスター工科大学において NoSQL データベースのスキーマ最適化に関する研究インターンに参加しました。
+    * メンター: <a class="text-link" href=https://michael.mior.ca/">Michael Mior</a>  
+
 * 2019年12/2-12/13の期間に M3 においてインターンに参加しました。
+    * 関連技術: AWS, GCP のマネージド DB 等
+* 2020年3/5 以降，サイバーエージェントにおいてアルバイト中
+    * 関連技術: Kubernetes, Mapreduce
 
 ## Education {#education}
 
 * 2015-04 大阪大学工学部電子情報工学科 入学
 * 2017-04 ビックデータ工学講座 (鬼塚研) 配属
 * 2019-04 大阪大学情報科学研究科マルチメディア専攻ビッグデータ工学講座 (鬼塚研) 配属 
+* 2021-03 大阪大学情報科学研究科マルチメディア専攻ビッグデータ工学講座 (鬼塚研) 卒業
 
 ## Licenses and Certifications {#licenses}
 
