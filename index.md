@@ -43,7 +43,7 @@ NoSQL データベースに置けるスキーマ推薦技術に関する研究�
 
 ## Publications {#publications}
 
-### 主著
+##### 主著
 
 * Secondary Indexを活用するNoSQLスキーマ推薦によるクエリ処理高速化
   <ol>
@@ -61,7 +61,7 @@ NoSQL データベースに置けるスキーマ推薦技術に関する研究�
      <li><span style="color: #808080; background-color: transparent">データ工学と情報マネジメントに関するフォーラム (DEIM2019) (2019.03)</span></li> 
   </ol>
 
-### 共著
+##### 共著
 
 * Schema Mapping between Logical and Internal Layers for NoSQL Applications 
   <ol>
@@ -99,8 +99,6 @@ NoSQL や RDBMS におけるデータ構造・スキーマ設計・トランザ�
    * 関連技術: Ruby, Java, HBase, openTSDB, Docker, docker-compose
 * 2019年5/16-8/31 の期間にサイバーエージェントで再度インターンに参加しました。
 * 2019年9/16-11/15の期間にアメリカのロチェスター工科大学において NoSQL データベースのスキーマ最適化に関する研究インターンに参加しました。
-    * メンター: <a class="text-link" href=https://michael.mior.ca/">Michael Mior</a>  
-
 * 2019年12/2-12/13の期間に M3 においてインターンに参加しました。
     * 関連技術: AWS, GCP のマネージド DB 等
 * 2020年3/5 以降，サイバーエージェントにおいてアルバイト中
