@@ -11,7 +11,7 @@ layout: default
 
 ## About Me {#aboutme}
 
-情報科学研究科博士前期課程マルチメディア工学専攻
+大阪大学大学院情報科学研究科博士前期課程マルチメディア工学専攻
 <a class="text-link" href="http://www-bigdata.ist.osaka-u.ac.jp/ja/home/">鬼塚研究室</a>  
 涌田 悠佑 (yusuke wakuta)  
 <a class="text-link" href="https://yusuke-haimenhikou.hatenablog.com">はてな</a>  
